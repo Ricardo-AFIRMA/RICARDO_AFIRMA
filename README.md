@@ -1,5 +1,5 @@
 # RICARDO_AFIRMA
-oi estou tentando fazer um site legal para meu prof show
-estou testando o git.
-show view view.
-gg iziiiiiiiiiiiiiiiiii.
+<br>oi estou tentando fazer um site legal para meu prof show</br>
+<br>estou testando o git.</br>
+<br>show view view.</br>
+<br>gg iziiiiiiiiiiiiiiiiii.</br>
