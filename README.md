@@ -1,4 +1,5 @@
 # RICARDO_AFIRMA
+## PALETA DE CORES 
 
 
 
