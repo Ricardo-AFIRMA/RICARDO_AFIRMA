@@ -1,8 +1,8 @@
 # RICARDO_AFIRMA
-## PALETA DE CORES 
+## SITE IF-ESPORTES
 
 
 
-##	O aplicativo tem como principal objetivo através de uma plataforma WEB fazer a ligação em tempo real de procedimentos de jogos, desde placar dos jogos até classificação e noticias. resumindo um Site para noticias esportivas n campus
 
+##	Em qualquer sociedade, instituição ou local de trabalho, é sempre comum se encontrar problemas de comunicação e informações, apesar de atualmente não sofrermos tanto com tal dificuldade, ainda sim encontramos varias falhas ligadas à comunicação. Um meio para tentar diminuir essa dificuldade são as criações de plataformas paras comunicação e informações dos seus temas abordados.  IF ESPORTES é um site de informações esportivas no IFRN-Campus NC. Ele tem como principal objetivo informar em tempo real placares e resultados das equipes que estão representando o Campus, Mantendo Seus usuários atualizados de notícias.
 
